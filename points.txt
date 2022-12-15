@@ -1,0 +1,4 @@
+- fix the timer on the top of the page
+- fix the due date inout field
+- Add the project once submit project is clicked
+- delete the project with the help of x button
